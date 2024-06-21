@@ -120,7 +120,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgba(1, 4, 136, 0.9);
+  background: #B70404;
 }
 
 #header.header-transparent {
@@ -128,7 +128,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: #B70404;
   height: 60px;
 }
 
@@ -247,7 +247,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #01036f;
+  color: #B70404;
 }
 
 .navbar .dropdown ul a i {
@@ -318,7 +318,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(1, 3, 91, 0.9);
+  background: #B70404;
   transition: 0.3s;
   z-index: 999;
 }
@@ -351,7 +351,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0205a1;
+  color:#B70404;
 }
 
 .navbar-mobile a:hover,
@@ -419,7 +419,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: #FF6969;
+  background: #B70404;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -619,7 +619,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #010483;
+  color: #B70404;
 }
 
 /*--------------------------------------------------------------
@@ -694,7 +694,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #010483;
+  color: #B70404;
   margin-bottom: 15px;
 }
 
@@ -759,7 +759,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#3f43fd 50%, rgba(63, 67, 253, 0.4) 52%);
+  background: radial-gradient(#3f43fd 50%, #B70404 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -861,12 +861,12 @@ section {
 }
 
 .features .icon-box h3 a {
-  color: #010483;
+  color: #B70404;
   transition: ease-in-out 0.3s;
 }
 
 .features .icon-box h3 a:hover {
-  color: #01036f;
+  color: #B70404;
 }
 
 .features .icon-box:hover {
@@ -912,7 +912,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #010483;
+  color: #B70404;
 }
 
 .counts .count-box p {
@@ -932,7 +932,7 @@ section {
 .details .content h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #010483;
+  color: #B70404;
 }
 
 .details .content ul {
@@ -989,7 +989,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(1, 3, 111, 0.8);
+  background:#B70404);
 }
 
 .testimonials .section-header {
