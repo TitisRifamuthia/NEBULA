@@ -437,7 +437,7 @@ h6 {
 
 #hero h1 span {
   color: #fff;
-  border-bottom: 4px solid #1acc8d;
+  border-bottom: 4px solid #002b6a;
 }
 
 #hero h2 {
@@ -456,11 +456,11 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #1acc8d;
+  background: #002b6a;
 }
 
 #hero .btn-get-started:hover {
-  background: #17b57d;
+  background: #002b6a;
 }
 
 #hero .animated {
@@ -715,13 +715,13 @@ section {
 }
 
 .about .icon-box .icon i {
-  color: #1acc8d;
+  color: #002b6a;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #1acc8d;
-  border-color: #1acc8d;
+  background: #002b6a;
+  border-color: #002b6a;
 }
 
 .about .icon-box:hover .icon i {
@@ -741,7 +741,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #1acc8d;
+  color: #002b6a;
 }
 
 .about .icon-box .description {
