@@ -124,10 +124,6 @@ h6 {
   background: #B70404;
 }
 
-#header.header-transparent {
-  background: transparent;
-}
-
 #header.header-scrolled {
   background: #B70404;
   height: 60px;
