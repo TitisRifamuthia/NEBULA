@@ -437,7 +437,7 @@ h6 {
 
 #hero h1 span {
   color: #fff;
-  border-bottom: 4px solid #002b6a;
+  border-bottom: 4px solid #3d56f0;
 }
 
 #hero h2 {
@@ -456,11 +456,11 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #002b6a;
+  background: #3d56f0;
 }
 
 #hero .btn-get-started:hover {
-  background: #002b6a;
+  background: #3d56f0;
 }
 
 #hero .animated {
@@ -989,7 +989,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background:#B70404);
+  background:#B70404;
 }
 
 .testimonials .section-header {
